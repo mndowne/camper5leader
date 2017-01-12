@@ -1,0 +1,197 @@
+body {
+  background-color: #00c8aa; }
+
+#user {
+  display: block;
+  width: 742px;
+  background-color: #003c32;
+  color: #00fac8;
+  height: 86px;
+  margin: auto; }
+  @media screen and (max-width: 750px) {
+    #user {
+      width: 400px;
+      height: 50px; } }
+  @media screen and (max-width: 410px) {
+    #user {
+      width: 300px;
+      height: 40px; } }
+
+#head {
+  display: block;
+  width: 742px;
+  background-color: #a0a096;
+  color: #00fac8;
+  height: 86px;
+  margin: auto; }
+  @media screen and (max-width: 750px) {
+    #head {
+      width: 400px;
+      height: 50px; } }
+  @media screen and (max-width: 410px) {
+    #head {
+      width: 300px;
+      height: 40px; } }
+
+#username {
+  display: inline-block;
+  width: 250px;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 25px; }
+  @media screen and (max-width: 750px) {
+    #username {
+      font-size: 100%;
+      width: 145px;
+      bottom: 14px; } }
+  @media screen and (max-width: 410px) {
+    #username {
+      font-size: 70%;
+      width: 100px; } }
+
+#place {
+  display: inline-block;
+  width: 20px;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 25px; }
+  @media screen and (max-width: 750px) {
+    #place {
+      font-size: 100%;
+      bottom: 14px; } }
+  @media screen and (max-width: 410px) {
+    #place {
+      font-size: 70%; } }
+
+#usernamebig {
+  display: inline-block;
+  width: 250px;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 150%;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+  @media screen and (max-width: 750px) {
+    #usernamebig {
+      font-size: 75%;
+      width: 145px;
+      bottom: 14px; } }
+  @media screen and (max-width: 410px) {
+    #usernamebig {
+      font-size: 55%;
+      width: 100px; } }
+
+#pic {
+  display: inline-block;
+  border: solid black;
+  width: 80px;
+  height: 80px; }
+  @media screen and (max-width: 750px) {
+    #pic {
+      width: 45px;
+      height: 45px; } }
+  @media screen and (max-width: 410px) {
+    #pic {
+      width: 35px;
+      height: 35px; } }
+
+#alltime {
+  display: inline-block;
+  width: 200px;
+  border-right: solid black;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 29px; }
+  @media screen and (max-width: 750px) {
+    #alltime {
+      width: 100px;
+      font-size: 100%;
+      bottom: 14px;
+      padding-bottom: 12px; } }
+  @media screen and (max-width: 410px) {
+    #alltime {
+      width: 70px;
+      font-size: 100%;
+      padding-bottom: 11px; } }
+
+#recent {
+  display: inline-block;
+  width: 180px;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 20px; }
+  @media screen and (max-width: 750px) {
+    #recent {
+      width: 80px;
+      font-size: 100%;
+      bottom: 14px; } }
+  @media screen and (max-width: 410px) {
+    #recent {
+      width: 50px;
+      font-size: 100%; } }
+
+#alltimeHead {
+  display: inline-block;
+  width: 200px;
+  border-right: solid black;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 29px;
+  cursor: pointer; }
+  #alltimeHead:hover {
+    background-color: #282824; }
+  @media screen and (max-width: 750px) {
+    #alltimeHead {
+      width: 100px;
+      font-size: 100%;
+      bottom: 14px;
+      padding-top: 20px;
+      padding-bottom: 12px; } }
+  @media screen and (max-width: 410px) {
+    #alltimeHead {
+      width: 70px;
+      font-size: 90%;
+      padding-top: 11px; } }
+
+#recentHead {
+  display: inline-block;
+  width: 180px;
+  text-align: center;
+  position: relative;
+  bottom: 32px;
+  font-size: 200%;
+  padding-top: 20px;
+  padding-bottom: 29px;
+  cursor: pointer; }
+  #recentHead:hover {
+    background-color: #282824; }
+  @media screen and (max-width: 750px) {
+    #recentHead {
+      width: 80px;
+      font-size: 100%;
+      bottom: 14px;
+      padding-top: 20px;
+      padding-bottom: 12px; } }
+  @media screen and (max-width: 410px) {
+    #recentHead {
+      width: 50px;
+      font-size: 90%;
+      padding-top: 11px; } }
+
+/*# sourceMappingURL=style.css.map */

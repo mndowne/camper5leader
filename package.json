@@ -1,0 +1,19 @@
+{
+  "name": "camperleader",
+  "version": "1.0.0",
+  "description": "A freecodecamp leader board",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mndowne/camper5leader.git"
+  },
+  "author": "mndowne",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mndowne/camper5leader/issues"
+  },
+  "homepage": "https://github.com/mndowne/camper5leader#readme"
+}
