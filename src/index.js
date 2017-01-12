@@ -1,3 +1,8 @@
+import React from "react";
+import ReactDOM from "react-dom";
+
+require('./css/style.css');
+
 const url = "https://fcctop100.herokuapp.com/api/fccusers/top/alltime";
 const url2 = "https://fcctop100.herokuapp.com/api/fccusers/top/recent";
 const app = document.getElementById("app");

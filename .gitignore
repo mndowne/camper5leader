@@ -1,4 +1,5 @@
 *.map
 *.swp
 /.sass-cache
+/node_modules/
 
